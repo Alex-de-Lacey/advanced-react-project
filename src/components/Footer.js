@@ -13,9 +13,9 @@ const Footer = () => {
           color="white"
           justifyContent="center"
           alignItems="center"
-          flexDirection="column" // stack items vertically
+          flexDirection="column"
           maxWidth="1024px"
-          height={24} // give it a bit more height
+          height={24}
           textAlign="center"
         >
           <p>Alex • © {currentYear}</p>
